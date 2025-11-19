@@ -29,8 +29,8 @@ Discuss the differences in execution time and explain the limitations of Bubble 
 ## PROGRAM:
 
 ```
-Developed By : Krishna Prasad S
-Register No. : 212223230108
+Developed By : Pradeep kumar G
+Register No. : 212223230150
 ```
 
 ```c
